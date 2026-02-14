@@ -714,7 +714,7 @@ Yes, usually the latest valid submission is considered. Duplicate or incorrect e
 
 Q4. I registered with a personal email instead of institute email. Is that okay?
 
-No. Student email IDs generally work unless explicitly stated otherwise.
+No. Registered email IDs generally work unless explicitly stated otherwise.
 
 **🔹 Discord Access**
 
