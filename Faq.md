@@ -59,7 +59,7 @@ Attendance is NOT compulsory for all the standups and live sessions. Please chec
 **2.3 Do I need to use a specific name or email for the internship?**  
 Yes. You must use the **same name and email ID** used during registration across all platforms (ViBe, GitHub, Zoom etc.) for automated tracking of your progress.
 
-**2.4 Can I use my college or non-Gmail email ID for registration?** 
+<!--**2.4 Can I use my college or non-Gmail email ID for registration?** 
 No. This is VERY IMPORTANT. 
   ->You must register using a Gmail ID (@gmail.com). 
   ->Non-Gmail IDs will not be registered 
@@ -78,7 +78,7 @@ Guidelines:
 Please ensure that the form is filled **daily** going forward to avoid missing attendance again.
 
 **2.6 I forgot to fill the attendance sheet attached to the NPTEL offer letter yesterday. What should I do now?**  
-Unfortunately, there is nothing that can be done, as the form is used for NPTEL’s official database and attendance cannot be recorded for the previous day. The previous day will be considered as a leave.
+Unfortunately, there is nothing that can be done, as the form is used for NPTEL’s official database and attendance cannot be recorded for the previous day. The previous day will be considered as a leave.-->
 
 **2.7 How can I avail the one-day leave allowed every month during the internship?**    
 Taking leave is **discouraged**, as you may miss important updates shared during live sessions or fall behind in your progress. It will be **your own responsibility** to complete the work missed on the leave day.
