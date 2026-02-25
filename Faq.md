@@ -159,6 +159,9 @@ Each task and milestone is designed to help you progress steadily through the in
 **4.8 What happens if I miss a deadline?**
 Failure to meet a task or milestone deadline may impact your Health Points and could lead to removal from the cohort, as per internship policy. Extensions are generally not provided unless explicitly communicated.
 
+**4.9 where can we find the Live session recordings?**
+The Live session recordings from 20th Feb are available in this Youtube Playlist: https://www.youtube.com/playlist?list=PL4ocL5uCKzQOv6Pu81GwG2Q28cViFK3QV
+
 ---
 
 ## 5. Completion, Certification & Offer Letter
