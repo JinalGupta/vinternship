@@ -6,12 +6,12 @@ permalink: /kruskalians/
 display_name: "Kruskalians"
 start_date: "1st Feb 2026"
 end_date: ""
-status: "Active" #"Upcoming"
+status: "Active"
 dashboard_available: true
 color: "FBC02D"
 schedule:
   standups:
-    days: ["Monday", "Wednesday", "Friday"]
+    days: ["Friday"]
     time: "8:45 PM - 9:30 PM IST (duration may vary)"
   live-session: "Saturday after 2:00 PM and Sunday"
 ---
