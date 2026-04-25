@@ -174,6 +174,21 @@ Failure to meet a task or milestone deadline may impact your Health Points and c
 **4.9 where can we find the Live session recordings?**  
 The Live session recordings from 20th Feb are available in this Youtube Playlist: [https://www.youtube.com/playlist?list=PL4ocL5uCKzQOv6Pu81GwG2Q28cViFK3QV](https://www.youtube.com/playlist?list=PL4ocL5uCKzQOv6Pu81GwG2Q28cViFK3QV){:target="_blank"}
 
+**4.10 What should I do if I do not have a PAN Card or face ID-related issues?**
+If you do not have a PAN card or face any ID-related issue, please contact the **NPTEL team**. They will assist you.
+
+**4.11 What should I do if my name is missing from the list?**
+If your name is not present:
+- Raise a **support ticket**.
+- This may be due to mismatches (e.g., project selection or viva status).
+- The team will review and resolve the issue.
+
+**4.12 How should I communicate or raise queries?**
+For all queries:
+- Please raise a **support ticket**.
+- Avoid spamming in chats or DMs, as messages may be missed.
+- The support team will resolve your concerns efficiently.
+
 ---
 
 ## 5. Completion, Certification & Offer Letter
@@ -199,6 +214,27 @@ Note that the offer letters are only for the AKSians cohort. Announcements regar
 
 **5.5 When will AKSians (NPTEL) cohort receive their certificate of completion?**    
 The certificate of completion for the AKSians (NPTEL) cohort will be issued after the candidate successfully completes all phases of the internship provided the candidate is registered for examination in one of Prof. Sudarshan Iyengar's NPTEL course.
+
+What should I select for the internship report (Yes/No question)?
+You may select **“Yes”** for the question asking whether you have an internship report signed by the professor and proceed to the next section.
+
+**5.6 What is required for the Experience Document & Video submission?**
+You are required to:
+- Create a short document (Google Doc/Word) describing your internship journey.
+- Include your experience, learnings, internship structure, and key takeaways.
+
+For the video submission:
+- You may share your experience, skills gained, and overall journey.
+
+**5.7 Do I need to create a separate internship report?**
+No, you do **not** need to create a separate internship report.  
+You only need to upload the **student list sheet** shared by the NPTEL team on your registered email ID.
+
+If you have not received it, please contact the NPTEL team.
+
+**5.8 When will I receive my certification?**
+Some certifications may be issued along with the **next cohort**.  
+Please do not worry—you will receive your certificate.
 
 ---
 
@@ -923,6 +959,10 @@ HP will be awarded based on your performance, contribution and involvement in th
 
 You can view the git repositories of the projects in the projects site in the website. Please get guidance from the mentors upon the usage of the repositories and how to raise PRs in them.
 
+**14.8 What if my project presentation is still pending?**
+If your project presentation is pending or you are in the waiting process:
+- There is no need to worry.
+- Your name will be considered once you successfully complete it.
 
 
 ---
